@@ -1,0 +1,10 @@
+D:\GitApp\WFLab6\bin\Debug\WFLab6.exe.config
+D:\GitApp\WFLab6\bin\Debug\WFLab6.exe
+D:\GitApp\WFLab6\bin\Debug\WFLab6.pdb
+D:\GitApp\WFLab6\obj\Debug\WFLab6.csprojAssemblyReference.cache
+D:\GitApp\WFLab6\obj\Debug\WFLab6.Form1.resources
+D:\GitApp\WFLab6\obj\Debug\WFLab6.Properties.Resources.resources
+D:\GitApp\WFLab6\obj\Debug\WFLab6.csproj.GenerateResource.cache
+D:\GitApp\WFLab6\obj\Debug\WFLab6.csproj.CoreCompileInputs.cache
+D:\GitApp\WFLab6\obj\Debug\WFLab6.exe
+D:\GitApp\WFLab6\obj\Debug\WFLab6.pdb
